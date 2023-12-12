@@ -1,0 +1,98 @@
+/* Estilos para o modal */
+#pokemon-modal {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 9999;
+}
+
+/* Estilos para o modal */
+.modal-content {
+    width: 25rem;
+    height: 32rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: rgb(243, 243, 243);
+    padding: 1rem;
+    overflow: hidden; /* Esconde qualquer conteúdo além das dimensões do modal */
+}
+
+.image-container {
+    width: 100%;
+    height: 14rem; /* Altura fixa para a imagem */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    overflow: hidden; /* Evita que a imagem ultrapasse a altura definida */
+}
+
+.image-container img {
+    max-width: 100%; /* Garante que a imagem se ajuste à largura */
+    max-height: 100%; /* Garante que a imagem se ajuste à altura */
+    display: block;
+}
+
+.status-pokemon {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-y: auto; /* Adiciona barra de rolagem vertical apenas quando necessário */
+    flex-shrink: 0; /* Evita que o conteúdo seja reduzido quando houver limitação de espaço */
+}
+
+/* Outros estilos */
+
+.status-pokemon {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.status-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.status-title {
+    text-align: left;
+}
+
+.status-value {
+    text-align: right;
+}
+
+.name-id-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.name-pokemon {
+    text-transform: capitalize; /* Transforma a primeira letra em maiúscula */
+    text-align: left;
+}
+
+.number-pokemon {
+    text-align: right;
+}
