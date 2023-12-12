@@ -4,9 +4,9 @@ Este é um projeto de uma Pokédex desenvolvido durante o Bootcamp Java + Angula
 
 ## Imagens do Projeto
 
-| ![Imagem 1](project-images/charizard.png) | ![Imagem 2](project-images/pokedex-1-mob.jpeg) | ![Imagem 3](project-images\pokedex-1-modal.png) | ![Imagem 4](project-images\pokedex-1.png) | ![Imagem 5](project-images\pokedex-2-mob.jpeg) |
+| ![Imagem 1](project-images/charizard.png) | ![Imagem 2](project-images/pokedex-1-mob.jpeg) | ![Imagem 3](project-images/pokedex-1-modal.png) | ![Imagem 4](project-images/pokedex-1.png) | ![Imagem 5](project-images/pokedex-2-mob.jpeg) |
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| ![Imagem 6](project-images\pokedex-2-modal.png) | ![Imagem 7](project-images\pokedex-3-modal.jpeg) | ![Imagem 8](project-images\pokedex-4-modal.jpeg) | ![Imagem 9](project-images\pokedex-5-modal.jpeg) | ![Imagem 10](project-images\pokedex-favicon.png) |
+| ![Imagem 6](project-images/pokedex-2-modal.png) | ![Imagem 7](project-images/pokedex-3-modal.jpeg) | ![Imagem 8](project-images/pokedex-4-modal.jpeg) | ![Imagem 9](project-images/pokedex-5-modal.jpeg) | ![Imagem 10](project-images/pokedex-favicon.png) |
 
 ## Funcionalidades
 
